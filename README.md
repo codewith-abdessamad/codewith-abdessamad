@@ -61,18 +61,6 @@ t_student me = {
 
 
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BABC&line=00BABC&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
 
 
 ### 📫 Let's Connect!
@@ -89,7 +77,8 @@ t_student me = {
 ---
 
 <div align="center">
-
+  
+### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
