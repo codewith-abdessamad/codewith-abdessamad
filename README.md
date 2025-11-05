@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 👋 Welcome to my digital workshop!
+![cat](https://camo.githubusercontent.com/6f9296a4c8b352a3a335f257ccf592c010c5f578a17a2f8d7ef407efe5dbe6a9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966)Welcome to my digital workshop!
 
 I'm a passionate developer who turns caffeine into code and ideas into reality.
 
