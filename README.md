@@ -1,6 +1,5 @@
 ![HEADER](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-
 <div align="center">
   
 ### 👋 Welcome to my digital workshop!
@@ -28,6 +27,7 @@ typedef struct s_student
 }   t_student;
 
 t_student me = {
+    .name = "Abdessamad El Bouazzaoui",
     .school = "1337 Coding School",
     .campus = "UM6P Ben Guerir",
     .location = "Ben Guerir, Morocco 🇲🇦",
@@ -41,26 +41,12 @@ t_student me = {
 
 <div align="center">
 
-**Core Languages**
+**Languages**
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Systems**
 
@@ -69,35 +55,11 @@ t_student me = {
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Make](https://img.shields.io/badge/-Make-427819?style=for-the-badge&logo=cmake&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-### 🎓 1337 Journey
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────┐
-│  🏫 School: 1337 Coding School (42 Network)    │
-│  🏢 Campus: UM6P Ben Guerir                     │
-│  📚 Program: Peer-to-peer learning             │
-│  💡 Focus: System programming & algorithms      │
-│  🎯 Goal: Become a world-class software engineer│
-└─────────────────────────────────────────────────┘
-```
-
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BABC&icon_color=00BABC&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=00BABC&fire=00BABC&currStreakLabel=00BABC" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BABC&text_color=FFFFFF" alt="Top Languages" height="170"/>
-</div>
 
 ### 🏆 GitHub Trophies
 
@@ -111,29 +73,7 @@ t_student me = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BABC&line=00BABC&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
-### 🌟 Featured Projects
 
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BABC&icon_color=00BABC&text_color=FFFFFF)](https://github.com/YOUR_USERNAME/REPO_NAME)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BABC&icon_color=00BABC&text_color=FFFFFF)](https://github.com/YOUR_USERNAME/REPO_NAME)
-
-</div>
-
-### 🎯 1337 Projects
-
-<div align="center">
-
-| Project | Description | Language | Status |
-|---------|-------------|----------|--------|
-| **libft** | Custom C library | C | ✅ |
-| **get_next_line** | File reading function | C | ✅ |
-| **ft_printf** | Custom printf implementation | C | ✅ |
-| **Born2beroot** | System administration | Shell | ✅ |
-| **so_long** | 2D game project | C | 🔄 |
-| **push_swap** | Sorting algorithm | C | 🔄 |
-
-</div>
 
 ### 📫 Let's Connect!
 
@@ -149,8 +89,7 @@ t_student me = {
 ---
 
 <div align="center">
-  
-### 💭 Random Dev Quote
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
